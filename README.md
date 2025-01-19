@@ -111,7 +111,8 @@ Allow users to explore data interactively by filtering by year, region, or produ
 Dashboard
 --
 
-![Screenshot 2025-01-04 132625](https://github.com/user-attachments/assets/3d768239-283e-4b53-b083-078d69037ec5)
+![Image](https://github.com/user-attachments/assets/3b5b0c4f-8612-4248-a81c-1dfd6c74f051)
+
 
 
 
